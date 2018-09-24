@@ -1,0 +1,12 @@
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\bin\Debug\Dp_project.exe.config
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\bin\Debug\Dp_project.exe
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\bin\Debug\Dp_project.pdb
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\obj\Debug\Dp_project.csprojResolveAssemblyReference.cache
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\obj\Debug\Dp_project.Properties.Resources.resources
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\obj\Debug\Dp_project.csproj.GenerateResource.Cache
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\obj\Debug\Dp_project.csproj.CoreCompileInputs.cache
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\obj\Debug\Dp_project.exe
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\obj\Debug\Dp_project.pdb
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\obj\Debug\Dp_project.Form1.resources
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\obj\Debug\Dp_project.Login.resources
+E:\6) Fall 17(6th)\DP\Fyp_C#\Dp_project\Dp_project\obj\Debug\Dp_project.Database.resources
