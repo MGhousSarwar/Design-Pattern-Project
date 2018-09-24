@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dp_project.Classes.C_Db" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAIAAAAAIAAAAAAAAAAAAAACAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\C_Db.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Cadvisor" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cadvisor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dp_project.Classes.Cexternal" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cexternal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dp_project.Classes.Cidea" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cidea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Cinternal" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAACAAAAAAAAAAAAAIAAAQAEQAIAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cinternal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dp_project.Classes.Cnotification" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cnotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.subject" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cnotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Proposed_Idea" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cnotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Idea_Accepted" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cnotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Notifications" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cnotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Studentproposedidea" Collapsed="true">
+    <Position X="1.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cnotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Advisoracceptidea" Collapsed="true">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cnotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Cperson" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAhAAAAgAAAIgAAQAAIAAAAAAAAAAhAAAAA=</HashCode>
+      <FileName>Classes\Cperson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Cproject" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Classes\Cproject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Cserialize" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cserialize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Cstudent" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQIAEAEAAAAAAAAAAAKAAAAgAAAAQAAAAAAAAAIAAE=</HashCode>
+      <FileName>Classes\Cstudent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dp_project.Classes.Cuser" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Classes\Cuser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Observer" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIAIAAAAAAAAAAIAAAEBAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Classes.Mailbox" Collapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Database" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAgAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Form1" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAACAIABEAAQSAABgCAAAgAAAAAAQAASAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Login" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAAAACAAIBAQAASACAACAIAoAAAAkEAAAQEAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Program" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Properties.Resources" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dp_project.Properties.Settings" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Dp_project.Classes.Subscriber" Collapsed="true">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dp_project.Interfaces.Iadvisor" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Iadvisor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dp_project.Interfaces.Iexternal" Collapsed="true">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Iexternal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dp_project.Interfaces.Iinternal" Collapsed="true">
+    <Position X="14.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Iinternal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dp_project.Interfaces.Istudent" Collapsed="true">
+    <Position X="16.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIAAAEAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Interfaces\Istudent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dp_project.Interfaces.Iteacherbehaviours" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Iteacherbehaviours.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Dp_project.Enum.Egender" Collapsed="true">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Enum\Egender.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dp_project.Enum.Erole" Collapsed="true">
+    <Position X="13" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAIAAAgAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Enum\Erole.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dp_project.Enum.Esub" Collapsed="true">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUQAAAAAAAAAAAAAAACAAAAAAAFBAAAAAAAARAAAAA=</HashCode>
+      <FileName>Enum\Esub.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
